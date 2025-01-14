@@ -13,4 +13,4 @@ que normalmente es de pago para poder utilizarlo y tener la funcionalidad absolu
 - boton de copiar el resultado traducido
 
 ***
-![imagen de simbolo de java](https://blog.codmind.com/content/images/2021/01/banner-12.jpg)
+![imagen de simbolo de java](https://miro.medium.com/v2/resize:fit:1400/1*XdcrYecW6uCLwJOOe5048Q.jpeg)
