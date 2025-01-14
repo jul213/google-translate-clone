@@ -13,4 +13,4 @@ que normalmente es de pago para poder utilizarlo y tener la funcionalidad absolu
 - boton de copiar el resultado traducido
 
 ***
-!(imagen de react)[https://www.filepicker.io/api/file/SVFQZQAyRpqJ31f6LNGe]
+! (imagen de react)[https://arielfuggini.com/static/d00325bbd9f153f8a3bfb2a3d4cd87e3/32ccb/react.png]
